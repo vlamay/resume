@@ -1,0 +1,43 @@
+Professional Prompt for Resume Portfolio Generation
+
+Use the following detailed content extracted from the attached resumes ("Maidaniuk_-resume.pdf" and "resume.pdf") to create a stylish, modern resume portfolio tailored for Vladyslav Maidaniuk, a DevOps/SRE and MLOps Engineer based in Prague, Czech Republic.
+​
+
+Extracted Key Data:
+
+Personal Info: Vladyslav Maidaniuk, vla.maidaniuk@gmail.com, +420 721 579 603, LinkedIn: linkedin.com/in/maidaniuk, GitHub: github.com/vlamay, Location: Prague, Czech Republic. EU Citizen, open to relocation/remote.
+​
+
+Professional Summary: DevOps/SRE Engineer with 4+ years experience in cloud-native infrastructure, AI/ML systems. Achievements: Reduced deployment times by 80%, 99.9% uptime for 10k users, 25% cloud cost savings via AI agents, 45% fewer false alerts with ML monitoring. Expertise: Kubernetes (EKS), AWS, Terraform, Ansible, CI/CD (GitHub Actions), MLOps (ML pipelines, model deployment, LLM integration OpenAI/Claude, GPU management).
+​
+
+Technical Skills: Container: Kubernetes, Docker, Helm. Cloud: AWS (EC2/EKS/RDS/S3/Lambda), Azure/GCP. IaC: Terraform (3y prod), Ansible (40+ playbooks). CI/CD: GitHub Actions/GitLab/Jenkins. MLOps: AI agent orchestration, model serving, drift detection. Monitoring: Prometheus/Grafana/ELK. Security: Vault, CIS Benchmarks, CEH v12. Languages: Python/Bash/SQL. DB: PostgreSQL/Oracle.
+​
+
+Experience:
+
+DevOps/SRE at Up Coop (Jan 2025-Present): AI infra automation, SLO/SLI, Terraform/Ansible provisioning (50+ resources, 60% faster), CI/CD re-engineering (80% faster deploys).
+​
+
+Freelance DevOps/MLOps on Upwork (2022-2024): AI chatbots (5k users), ML pipelines (70% faster processing), AWS infra for fintech, Ansible for 200+ servers.
+​
+
+Cybersecurity Analyst at Motorola (2020-2022), Oracle DBA at N-iX (2019-2020), SysAdmin at PESA (2016-2019).
+​
+
+Education: MSc Information Systems Security, BSc Computer Science, Jagiellonian University.
+​
+
+Certifications: CEH v12 (2024), DevSecOps (TryHackMe 2025), Google IT Automation Python (2024), In Progress: AWS SAA, CKA.
+​
+
+Generation Instructions:
+Create a single-page, visually appealing PDF resume in modern DevOps/MLOps style: Use dark mode theme with accent colors (e.g., AWS orange #FF9900, Kubernetes blue #326CE5), clean sans-serif fonts (e.g., Inter or SF Pro), icons for sections (GitHub/LinkedIn/AWS/K8s), subtle gradients/backgrounds. Structure: Hero header with name/title/photo placeholder, 1-paragraph summary emphasizing quantifiable MLOps/DevOps impacts, skills grid/table (categorized icons), experience bullets (3-5 per role, action-oriented with metrics), education/certs sidebar. Optimize for ATS: Keywords like Kubernetes, Terraform, MLOps, AWS EKS, CI/CD. Ensure mobile-friendly, hyperlinks for contacts/profiles. Output as formatted LaTeX or HTML/CSS ready for PDF export.
+​
+
+Usage Tips
+Copy-paste this prompt directly into an AI tool like Claude, GPT-4o, or Grok for instant generation. Customize with a profile photo URL if desired.
+​
+
+Why This Fits Your Profile
+Tailored to your Prague-based freelance DevOps/MLOps focus, highlighting AI infra, Kubernetes security, and business metrics from your Up Coop/Upwork roles for EU/remote jobs.

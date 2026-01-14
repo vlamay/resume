@@ -1,0 +1,94 @@
+Foodway logo
+Foodway
+Foodway
+Contract · 1 yr 3 mosContract · 1 yr 3 mos
+Novokuznetsk, Kemerovo, Russia · HybridNovokuznetsk, Kemerovo, Russia · Hybrid
+Mid-Level Penetration Tester
+Mid-Level Penetration Tester
+Jul 2018 - Mar 2019 · 9 mosJul 2018 to Mar 2019 · 9 mos
+Led full lifecycle penetration tests (scoping, methodology design, exploitation, reporting) for internal and external engagements
+
+Exploited critical vulnerabilities such as RCE, SQL injection, and XXE; performed privilege escalation on Linux and Windows hosts
+
+Designed and executed social engineering assessments (phishing campaigns, vishing) and delivered security awareness training to staff
+
+Built and maintained custom Kali Linux images loaded with up-to-date offensive tools (Metasploit, Empire, Cobalt Strike)
+
+Mentored two junior testers: code reviews, collaborative CTF practice, and adoption of testing best practices
+
+Contributed to internal secure-coding and DevSecOps CI/CD guidelines for development teams
+Led full lifecycle penetration tests (scoping, methodology design, exploitation, reporting) for internal and external engagements Exploited critical vulnerabilities such as RCE, SQL injection, and XXE; performed privilege escalation on Linux and Windows hosts Designed and executed social engineering assessments (phishing campaigns, vishing) and delivered security awareness training to staff Built and maintained custom Kali Linux images loaded with up-to-date offensive tools (Metasploit, Empire, Cobalt Strike) Mentored two junior testers: code reviews, collaborative CTF practice, and adoption of testing best practices Contributed to internal secure-coding and DevSecOps CI/CD guidelines for development teams
+Skills: Network Sniffing & Packet Analysis (Wireshark, tcpdump) · Technical Reporting · Burp Suite · Threat Modeling 
+Skills: Network Sniffing & Packet Analysis (Wireshark, tcpdump) · Technical Reporting · Burp Suite · Threat Modeling 
+Junior Penetration Tester
+Junior Penetration Tester
+Jan 2018 - Jul 2018 · 7 mosJan 2018 to Jul 2018 · 7 mos
+Conducted internal and external network vulnerability scans using Nmap and Nessus; identified and documented low- to medium-severity issues
+
+Performed basic web application testing against OWASP Top 10 risks with Burp Suite Pro and manual techniques
+
+Prepared detailed penetration test reports with remediation recommendations and prioritized findings
+
+Automated routine checks and data collection with Python and Bash scripts
+Conducted internal and external network vulnerability scans using Nmap and Nessus; identified and documented low- to medium-severity issues Performed basic web application testing against OWASP Top 10 risks with Burp Suite Pro and manual techniques Prepared detailed penetration test reports with remediation recommendations and prioritized findings Automated routine checks and data collection with Python and Bash scripts
+Skills: Network Sniffing & Packet Analysis (Wireshark, tcpdump) · Nessus/OpenVAS · Nmap · Burp Suite · Metasploit
+Skills: Network Sniffing & Packet Analysis (Wireshark, tcpdump) · Nessus/OpenVAS · Nmap · Burp Suite · Metasploit
+Professional development
+Professional development
+Career BreakCareer Break
+Jan 2018 - Aug 2018 · 8 mosJan 2018 to Aug 2018 · 8 mos
+Moscow, Moscow City, RussiaMoscow, Moscow City, Russia
+During this period, I secured a contractual position to develop hands-on experience in cybersecurity. I completed targeted projects in penetration testing, incident response, and automated vulnerability scanning, while collaborating with mentors to refine my skills. This break allowed me to transition smoothly into a full-time security role with real-world practice and professional guidance.
+During this period, I secured a contractual position to develop hands-on experience in cybersecurity. I completed targeted projects in penetration testing, incident response, and automated vulnerability scanning, while collaborating with mentors to refine my skills. This break allowed me to transition smoothly into a full-time security role with real-world practice and professional guidance.
+PESA Bydgoszcz S.A. logo
+PESA Bydgoszcz S.A.
+PESA Bydgoszcz S.A.
+2 yrs 9 mos2 yrs 9 mos
+Bydgoszcz, Kujawsko-pomorskie, Poland · HybridBydgoszcz, Kujawsko-pomorskie, Poland · Hybrid
+Mid / Senior System Administrator
+Mid / Senior System Administrator
+Full-timeFull-time
+Jan 2017 - Jan 2018 · 1 yr 1 moJan 2017 to Jan 2018 · 1 yr 1 mo
+Architected and oversaw migration to a VMware vSphere cluster (20 hosts, 400+ VMs), improving consolidation and resiliency
+
+Deployed and managed container platform (Docker, Kubernetes) for internal tooling, accelerating team delivery
+
+Defined and enforced security hardening standards (Windows, Linux) in line with OWASP and ISO 27001 requirements
+
+Mentored a team of 4 junior admins: code-reviews, on-call rotations, knowledge-sharing sessions
+
+Collaborated with network and cloud teams to integrate on-prem DCs with Azure AD and Azure Site Recovery
+Architected and oversaw migration to a VMware vSphere cluster (20 hosts, 400+ VMs), improving consolidation and resiliency Deployed and managed container platform (Docker, Kubernetes) for internal tooling, accelerating team delivery Defined and enforced security hardening standards (Windows, Linux) in line with OWASP and ISO 27001 requirements Mentored a team of 4 junior admins: code-reviews, on-call rotations, knowledge-sharing sessions Collaborated with network and cloud teams to integrate on-prem DCs with Azure AD and Azure Site Recovery
+Skills: Security hardening (CIS, OWASP) · VMware · Team leadership · Containerization & Orchestration (Docker, Kubernetes) · Azure AD · Azure Site Recovery
+Skills: Security hardening (CIS, OWASP) · VMware · Team leadership · Containerization & Orchestration (Docker, Kubernetes) · Azure AD · Azure Site Recovery
+Mid-Level System Administrator
+Mid-Level System Administrator
+Full-timeFull-time
+Apr 2016 - Jan 2017 · 10 mosApr 2016 to Jan 2017 · 10 mos
+Managed and optimized a hybrid environment of 60+ servers (Windows 2012/2016, CentOS 7)
+
+Automated routine tasks with PowerShell and Bash scripts, reducing manual workload by 40 %
+
+Implemented and maintained Hyper-V clusters, provisioning virtual machines for development and test teams
+
+Hardened servers by applying CIS Benchmarks and rolling out configuration management via Ansible
+
+Led DR-drills and backups: designed recovery plans, tested restores, and reduced RTO by 30 %
+Managed and optimized a hybrid environment of 60+ servers (Windows 2012/2016, CentOS 7) Automated routine tasks with PowerShell and Bash scripts, reducing manual workload by 40 % Implemented and maintained Hyper-V clusters, provisioning virtual machines for development and test teams Hardened servers by applying CIS Benchmarks and rolling out configuration management via Ansible Led DR-drills and backups: designed recovery plans, tested restores, and reduced RTO by 30 %
+Skills: Disaster recovery planning · Command Line & Shell Scripting (PowerShell, Bash) · Hyper-V · Windows Server 2012/2016 · Ansible
+Skills: Disaster recovery planning · Command Line & Shell Scripting (PowerShell, Bash) · Hyper-V · Windows Server 2012/2016 · Ansible
+Junior System Administrator
+Junior System Administrator
+InternshipInternship
+May 2015 - Apr 2016 · 1 yrMay 2015 to Apr 2016 · 1 yr
+Supported day-to-day operations of 40+ Windows Server 2008 R2 and CentOS 6 systems
+
+Onboarded new user accounts in Active Directory; applied standard GPOs for file-share and print-server access
+
+Assisted in patch management: downloaded updates, tested on a development cluster, and rolled out to production
+
+Monitored system alerts in Zabbix and escalated incidents to senior staff, helping maintain ≥99.5 % uptime
+
+Documented runbooks for common tasks (backups, service restarts, user provisioning)
+Supported day-to-day operations of 40+ Windows Server 2008 R2 and CentOS 6 systems Onboarded new user accounts in Active Directory; applied standard GPOs for file-share and print-server access Assisted in patch management: downloaded updates, tested on a development cluster, and rolled out to production Monitored system alerts in Zabbix and escalated incidents to senior staff, helping maintain ≥99.5 % uptime Documented runbooks for common tasks (backups, service restarts, user provisioning)
+Skills: Patch Management: Windows Updates, YUM package updates, test-deploy workflows · Operating Systems: Windows Server 2008 R2, CentOS 6 · Documentation: Runbooks for backups, service restarts, user provisioning · Monitoring & Alerting: Zabbix fundamentals, log review, incident escalation

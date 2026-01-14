@@ -1,0 +1,22 @@
+Synergy University logo
+Synergy University
+Synergy University
+Master of Development, Maintenance and Security of Information Systems, Development, Maintenance and Security of Information SystemsMaster of Development, Maintenance and Security of Information Systems, Development, Maintenance and Security of Information Systems
+Dec 2024Dec 2024
+Grade: 256Grade: 256
+Activities and societies: Internship in corporate information system development and security
+
+Member of student IT security research groupsActivities and societies: Internship in corporate information system development and security Member of student IT security research groups
+During my master’s program, I completed several key projects:
+
+Corporate Network Security Audit: Conducted vulnerability assessments and developed risk mitigation recommendations for an enterprise network
+
+Access Control System Development: Designed and implemented a user access rights management system in a corporate environment
+
+Information Security Policy Creation: Drafted and formalized data protection policies and incident response procedures
+
+Cyberattack Simulation: Tested system resilience against common cyberattack scenarios
+
+This internship and coursework provided hands-on experience with real-world infrastructures, significantly enhancing my practical expertise in cybersecurity.
+During my master’s program, I completed several key projects: Corporate Network Security Audit: Conducted vulnerability assessments and developed risk mitigation recommendations for an enterprise network Access Control System Development: Designed and implemented a user access rights management system in a corporate environment Information Security Policy Creation: Drafted and formalized data protection policies and incident response procedures Cyberattack Simulation: Tested system resilience against common cyberattack scenarios This internship and coursework provided hands-on experience with real-world infrastructures, significantly enhancing my practical expertise in cybersecurity.
+Skills: Red Team Exercises · Docker & Container Security · Vulnerability Assessment · Penetration Testing (Web, Network, Wireless) · Incident Response · Network Security Fundamentals
